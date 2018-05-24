@@ -19,6 +19,7 @@
     - [Monads in Scala](https://medium.com/@sinisalouc/demystifying-the-monad-in-scala-cc716bb6f534)
 - Intresting [roadmap](https://gist.github.com/d1egoaz/2180cbbf7d373a0c5575f9a62466e5e1)
 - [Scala-exercises](https://www.scala-exercises.org/)
+- [Awesome Scala](https://github.com/lauris/awesome-scala)
 - [More](https://scala-lang.org/documentation/learn.html)
 
 ## News

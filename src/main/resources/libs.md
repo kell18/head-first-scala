@@ -6,3 +6,4 @@
     - [Spire](https://github.com/non/spire)
     - [Alebird](https://github.com/twitter/algebird)
     - [Breeze](https://github.com/scalanlp/breeze) (heavy)
+- [Awesome Scala](https://github.com/lauris/awesome-scala)

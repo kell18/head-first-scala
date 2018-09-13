@@ -6,6 +6,7 @@
 ## Some resources
 - ! https://github.com/alexandru/scala-best-practices
 - ! https://www.coursera.org/specializations/scala
+- Intresting [roadmap](https://gist.github.com/d1egoaz/2180cbbf7d373a0c5575f9a62466e5e1)
 - _Books_
     - Begginer:
         - [Programming in Scala](https://booksites.artima.com/programming_in_scala_3ed)
@@ -17,13 +18,12 @@
 - Monads:
     - Good [explanation](https://habrahabr.ru/post/183150/)
     - [Monads in Scala](https://medium.com/@sinisalouc/demystifying-the-monad-in-scala-cc716bb6f534)
-- Intresting [roadmap](https://gist.github.com/d1egoaz/2180cbbf7d373a0c5575f9a62466e5e1)
-- [Scala-exercises](https://www.scala-exercises.org/)
+- [Scala-exercises](https://www.scala-exercises.org/) (turn off ad-block first)
 - [Awesome Scala](https://github.com/lauris/awesome-scala)
 - [More](https://scala-lang.org/documentation/learn.html)
 
 ## News
-1. [Scalatimes](http://scalatimes.com/)
+1. [Scalatimes](http://scalatimes.com/) - super-useful
 
 ## Podcasts
 1. [CoRecursive w/ Adam Bell](https://corecursive.com/)

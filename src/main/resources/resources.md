@@ -13,6 +13,8 @@
         - The best one - [Scala with Cats](https://underscore.io/books/scala-with-cats/)
         - Famous book-exercise - [Functional Programming in Scala](https://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653) (aka the Red book)
 
+- Great talk, beginner friendly [into to FP](https://www.youtube.com/watch?v=30q6BkBv5MY) by Rob Norris 
+
 - Monads explanations:
     - Good [explanation](https://habrahabr.ru/post/183150/) in general
     - [Monads in Scala](https://medium.com/@sinisalouc/demystifying-the-monad-in-scala-cc716bb6f534)
@@ -34,4 +36,4 @@
 - Environment: Intellij with Scala plugin are quite nice. VS Code with Metals plugin super as well. Eclipse Scala IDE seems a bit outdated to me.
 - Be patient, don't expect that you'll know everything after one book or course, Scala is a scale, you'll have something to learn for some time. ;)  
 - Experienced buddy in Scala or any other functional language could help you a lot, or you can ask any questions in Scala gitter channels as well.
-- Don't be lured by Akka Actors marketing bullshit. It is too powerful tool and hence hardly composable and extendable. Try to use simpler technologies if you have complex concurrency case (eg Monix). Also Akka contradicts some of the functional programming aspects Scala trying to bring, so it's not so good for your Scala level.
+- Don't be lured by Akka Actors marketing. It is too powerful tool and hence hardly composable and extendable. Try to use simpler technologies if you have complex concurrency case (eg Monix). Also Akka contradicts some of the functional programming aspects Scala trying to bring, so it's not so good for your Scala level.

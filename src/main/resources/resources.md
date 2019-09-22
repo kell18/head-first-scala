@@ -34,3 +34,4 @@
 - Environment: Intellij with Scala plugin are quite nice. VS Code with Metals plugin super as well. Eclipse Scala IDE seems a bit outdated to me.
 - Be patient, don't expect that you'll know everything after one book or course, Scala is a scale, you'll have something to learn for some time. ;)  
 - Experienced buddy in Scala or any other functional language could help you a lot, or you can ask any questions in Scala gitter channels as well.
+- Don't be lured by Akka Actors marketing bullshit. It is too powerful tool and hence hardly composable and extendable. Try to use simpler technologies if you have complex concurrency case (eg Monix). Also Akka contradicts some of the functional programming aspects Scala trying to bring, so it's not so good for your Scala level.

@@ -8,7 +8,7 @@
 - _Books_
     - Begginer:
         - [Programming in Scala](https://booksites.artima.com/programming_in_scala_3ed)
-        - [Essential Scala](https://underscore.io/training/courses/essential-scala/)
+        - [Essential Scala](https://underscore.io/training/courses/essential-scala/) (free)
     - Advanced:
         - The best one - [Scala with Cats](https://underscore.io/books/scala-with-cats/)
         - Famous book-exercise - [Functional Programming in Scala](https://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653) (aka the Red book)

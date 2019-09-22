@@ -3,8 +3,7 @@
 2. [scala_ru](https://t.me/scala_ru) - Russian, could be toxic once in a while, but still nice.
 
 ## Some resources
-- ! https://github.com/alexandru/scala-best-practices <- keep an eye on best practices, there are decent expalations for "Why?" questions as well
-- https://www.coursera.org/specializations/scala <- First one quite tedious, second and next are much better, but you need some knowledge to that, a good book could be a great start
+- [Series of courses from the lang creators](https://www.coursera.org/specializations/scala), first one quite tedious, second and next are much better, but you need some basic knowledge to that, a good book could be a great start
 - _Books_
     - Begginer:
         - [Programming in Scala](https://booksites.artima.com/programming_in_scala_3ed)
@@ -12,14 +11,13 @@
     - Advanced:
         - The best one - [Scala with Cats](https://underscore.io/books/scala-with-cats/)
         - Famous book-exercise - [Functional Programming in Scala](https://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653) (aka the Red book)
-
-- Great talk, beginner friendly [into to FP](https://www.youtube.com/watch?v=30q6BkBv5MY) by Rob Norris 
-
+- Great talk, beginner friendly [into to FP on Scala](https://www.youtube.com/watch?v=30q6BkBv5MY) by Rob Norris 
 - Monads explanations:
     - Good [explanation](https://habrahabr.ru/post/183150/) in general
     - [Monads in Scala](https://medium.com/@sinisalouc/demystifying-the-monad-in-scala-cc716bb6f534)
 
 - [Scala-exercises](https://www.scala-exercises.org/) (turn off ad-block first)
+- Couple of great lists of the best practices: [first](https://github.com/alexandru/scala-best-practices) and [second](https://nrinaudo.github.io/scala-best-practices/) - keep an eye on it, there are some decent expalations for "Why?" questions as well
 - [Awesome Scala](https://github.com/lauris/awesome-scala) - list of libs and frameworks
 - Intresting, alternative [roadmap](https://gist.github.com/d1egoaz/2180cbbf7d373a0c5575f9a62466e5e1)
 - [More](https://scala-lang.org/documentation/learn.html)

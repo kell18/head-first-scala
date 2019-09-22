@@ -1,12 +1,10 @@
 ## Chats
-1. [clover_scala](https://t.me/clover_scala)
-2. Gitter [rooms](https://gitter.im/typelevel/scala)
-3. [scala_ru](https://t.me/scala_ru)
+1. Gitter [rooms](https://gitter.im/scala/scala) - beginner friendly
+2. [scala_ru](https://t.me/scala_ru) - Russian, could be toxic once in a while, but still nice.
 
 ## Some resources
-- ! https://github.com/alexandru/scala-best-practices
-- ! https://www.coursera.org/specializations/scala
-- Intresting [roadmap](https://gist.github.com/d1egoaz/2180cbbf7d373a0c5575f9a62466e5e1)
+- ! https://github.com/alexandru/scala-best-practices <- keep an eye on best practices, there are decent expalations for "Why?" questions as well
+- https://www.coursera.org/specializations/scala <- First one quite tedious, second and next are much better, but you need some knowledge to that, a good book could be a great start
 - _Books_
     - Begginer:
         - [Programming in Scala](https://booksites.artima.com/programming_in_scala_3ed)
@@ -21,6 +19,7 @@
 
 - [Scala-exercises](https://www.scala-exercises.org/) (turn off ad-block first)
 - [Awesome Scala](https://github.com/lauris/awesome-scala) - list of libs and frameworks
+- Intresting, alternative [roadmap](https://gist.github.com/d1egoaz/2180cbbf7d373a0c5575f9a62466e5e1)
 - [More](https://scala-lang.org/documentation/learn.html)
 
 ## News
@@ -30,3 +29,7 @@
 1. [CoRecursive w/ Adam Bell](https://corecursive.com/)
 2. [Scala Love](https://scala.love/)
 3. [Scalalaz](https://scalalaz.ru) (Rus)
+
+## General recommendations
+- Be patient, don't expect that you'll know everything after one book or course, Scala is a scale, you'll have something to learn for some time. ;)  
+- Experienced buddy in Scala or any other functional language could help you a lot, or you can ask any questions in Scala gitter channels as well.

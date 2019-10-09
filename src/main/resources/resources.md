@@ -1,6 +1,6 @@
 ## Chats
 1. Gitter [rooms](https://gitter.im/scala/scala) - beginner friendly
-2. [scala_ru](https://t.me/scala_ru) - Russian, could be toxic once in a while, but still nice.
+2. [scala_ru](https://t.me/scala_ru)
 
 ## Some resources
 - [Series of courses from the lang creators](https://www.coursera.org/specializations/scala), first one quite tedious, second and next are much better, but you need some basic knowledge to that, a good book could be a great start
@@ -29,6 +29,7 @@
 1. [CoRecursive w/ Adam Bell](https://corecursive.com/)
 2. [Scala Love](https://scala.love/)
 3. [Scalalaz](https://scalalaz.ru) (Rus)
+4. [Soft Skills Engineering](https://softskills.audio/), [Software Engineering Radio](https://www.se-radio.net/) - not directly related but still cool
 
 ## General recommendations
 - Environment: Intellij with Scala plugin are quite nice. VS Code with Metals plugin super as well. Eclipse Scala IDE seems a bit outdated to me.

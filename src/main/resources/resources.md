@@ -12,6 +12,7 @@
         - The best one - [Scala with Cats](https://underscore.io/books/scala-with-cats/)
         - Famous book-exercise - [Functional Programming in Scala](https://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653) (aka the Red book)
 - Great talk, beginner friendly [into to FP on Scala](https://www.youtube.com/watch?v=30q6BkBv5MY) by Rob Norris 
+    - Also a [nice one](https://www.youtube.com/watch?v=83pXEdCpY4A) and more advanced
 - [Errors handling strategy](https://stackoverflow.com/a/35736191/2453144) in functional Scala
 - Monads explanations:
     - Good [explanation](https://habrahabr.ru/post/183150/) in general

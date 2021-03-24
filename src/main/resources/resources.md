@@ -17,7 +17,7 @@
     - [Essential Scala](https://underscore.io/training/courses/essential-scala/) (free!) - a bit older but still very good
 - Advanced:
     - The best one for FP and Cats ecosystem - [Scala with Cats](https://underscore.io/books/scala-with-cats/)
-    - Famous book-exercise - [Functional Programming in Scala](https://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653) (aka the Red book aka the book-exercise)
+    - Famous book-exercise - [Functional Programming in Scala](https://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653) (aka the Red book)
 
 ## Articles and more
 - [Errors handling strategy](https://stackoverflow.com/a/35736191/2453144) in functional Scala  

@@ -21,6 +21,7 @@
 
 ## Articles and more
 - [Errors handling strategy](https://stackoverflow.com/a/35736191/2453144) in functional Scala  
+- [Type Classes from the ground up](https://www.youtube.com/watch?v=3BM4IEziqIM) by Nicolas Rinaudo
 - Monads explanations:
     - [Monads in Scala](https://medium.com/@sinisalouc/demystifying-the-monad-in-scala-cc716bb6f534)
     - Good [explanation](https://habrahabr.ru/post/183150/) in general (Russian)

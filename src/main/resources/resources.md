@@ -1,3 +1,5 @@
+[Scastie](https://scastie.scala-lang.org/) - great online code editor.
+
 ## Chats (beginner friendly)
 1. Gitter [rooms](https://gitter.im/scala/scala)
 2. Telegram [scala_en](https://t.me/scala_en) and [scala_ru](https://t.me/scala_ru)
